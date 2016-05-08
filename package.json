@@ -1,0 +1,14 @@
+{
+  "name": "clwo",
+  "version": "1.0.0",
+  "description": "CLWO API Wrapper for Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Popey Gilbert",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
